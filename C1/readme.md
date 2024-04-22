@@ -245,10 +245,10 @@ obj = {
   address: 'Middle Earth' 
 };
 ```
-Como podemos ver, para declarar um objeto JavaScript, pares **[chave, valor]** são usados, no quais a chave pode ser considerada um **atributo** do objeto, e o valor é o **valor da propriedade**.
+Para declarar um objeto JavaScript, pares **[chave, valor]** são usados, onde a chave pode ser considerada um **atributo** do objeto, e o valor é o **valor da propriedade**.
 
 Em POO, um objeto é uma instância de uma classe. **Uma classe define as características do objeto**.
-Eis o modo como podemos declarar uma **classe (construtor)** que representa um livro:
+Aqui o modo que uma **classe (construtor)** pode ser declarada:
 ```javascript
 function Book(title, pages, isbn) { 
   this.title = title;

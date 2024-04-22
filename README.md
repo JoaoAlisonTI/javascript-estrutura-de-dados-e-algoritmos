@@ -13,7 +13,7 @@ Então decidi fazer outra viagem dentro do universo dos Dados e Algoritmos mas d
 
 ## Resumos de Capítulos
 
-- [JavaScript - uma visão geral rápida]()
+- [JavaScript - uma visão geral rápida](https://github.com/JoaoAlisonTI/javascript-estrutura-de-dados-e-algoritmos/tree/master/C1)
 - ...
 
 ## Estrutura do Repositório
